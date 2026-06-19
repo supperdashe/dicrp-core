@@ -1,6 +1,8 @@
 # dicrp-core
 A deterministic, state-machine-driven gatekeeper to eliminate LLM hallucinations and out-of-control agent loops by enforcing input context quality auditing.
 
+(hereinafter referred to as PromptOS)
+
 
 PromptOS is a deterministic AI input processing architecture designed to improve large language model reliability by ensuring user intent is fully understood before execution
 
